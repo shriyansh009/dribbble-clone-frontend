@@ -163,8 +163,9 @@ margin: 0 10px;
     width: 100%;
     background-color: rgb(255, 255, 255);
     position: relative;
-    padding: 185px;
+    padding: 60px;
     padding-top: 45px;
+    margin-left: 20px;
 }
 .page2 h1{
     text-align: center;
