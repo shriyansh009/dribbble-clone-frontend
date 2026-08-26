@@ -173,8 +173,8 @@ margin: 0 10px;
     margin-bottom: 50px;
 }
 .box{
-    height: 320px;
-    width: 400px;
+    height: 300px;
+    width: 350px;
     background-color: red;
     border-radius: 15px;
     display: inline-block;
